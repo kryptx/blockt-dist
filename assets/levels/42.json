@@ -1,0 +1,398 @@
+{
+  "worldBlocks": [
+    {
+      "position": {
+        "x": -1,
+        "y": 0,
+        "z": -3
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": -3
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 0,
+        "z": -3
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": -1,
+        "y": 0,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": -1,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": -1,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": -1,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": -1,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 7,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 8,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 10,
+        "y": -1,
+        "z": -3
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 12,
+        "y": 0,
+        "z": -3
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": -2,
+        "y": 0,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": -2,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": -1,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": -2,
+        "y": 0,
+        "z": 0
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": -3,
+        "y": 0,
+        "z": -3
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 9,
+        "y": -1,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 9,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 12,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 10,
+        "y": -1,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": -1,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": -2,
+        "y": 0,
+        "z": -3
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": -4
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": -1,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": -2,
+        "y": 0,
+        "z": -4
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 7,
+        "y": -1,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 8,
+        "y": -1,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": -3,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 0,
+        "z": -2
+      },
+      "type": "Target"
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 12,
+        "y": 0,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 0,
+        "z": -3
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 14,
+        "y": 0,
+        "z": -3
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 14,
+        "y": 0,
+        "z": -2
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": 14,
+        "y": 0,
+        "z": -1
+      },
+      "type": "Ground"
+    },
+    {
+      "position": {
+        "x": -2,
+        "y": 1,
+        "z": 0
+      },
+      "type": "Normal"
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 1,
+        "z": -3
+      },
+      "type": "Normal"
+    },
+    {
+      "position": {
+        "x": -2,
+        "y": 1,
+        "z": -3
+      },
+      "type": "Normal"
+    }
+  ],
+  "playerBlocks": [
+    {
+      "position": {
+        "x": -2,
+        "y": 1,
+        "z": -3
+      },
+      "type": "Normal"
+    }
+  ]
+}
